@@ -8,3 +8,6 @@ Link: https://open.kattis.com/problems/disastrousdoubling
 
 Solution to the Kattis Prosejk problem.
 Link: https://open.kattis.com/problems/prosjek
+
+Solution to the Kattis Arrangement problem.
+Link: https://open.kattis.com/problems/upprodun
