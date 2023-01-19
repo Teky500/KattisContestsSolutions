@@ -12,5 +12,5 @@ Link: https://open.kattis.com/problems/prosjek
 Solution to the Kattis Arrangement problem.
 Link: https://open.kattis.com/problems/upprodun
 
-Solution to the Kattis Alien Integers problem, for the ICPC NAQ:
+Solution to the Kattis Alien Integers problem, for the ICPC NAQ 2021:
 Link: https://open.kattis.com/problems/alienintegers
